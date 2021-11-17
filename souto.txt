@@ -1,3 +1,9 @@
 Souto
 
+<<<<<<< HEAD
 User1
+=======
+Realizando cambios
+
+User2
+>>>>>>> 05adb3f2179789d80e4ee47a2fb79cd5e04eac3b
